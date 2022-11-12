@@ -1,0 +1,33 @@
+{
+  "name": "@frontle/cordova-fileutil",
+  "version": "1.0.0",
+  "type": "module",
+  "module": "./",
+  "description": "'cordova-plugin-file' easily",
+  "keywords": [
+    "cordova-plugin-file",
+    "cordova file",
+    "browser",
+    "android",
+    "ios",
+    "cordova",
+    "electron",
+    "frontle"
+  ],
+  "author": "Yun HyeongJun <y37653@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frontle-Foundation/cordova-fileutil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Frontle-Foundation/cordova-fileutil/issues"
+  },
+  "homepage": "https://github.com/Frontle-Foundation/cordova-fileutil#readme",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "dependencies": {}
+}
