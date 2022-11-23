@@ -1,6 +1,6 @@
 {
   "name": "@frontle/cordova-fileutil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "module": "./",
   "description": "'cordova-plugin-file' easily",
@@ -14,7 +14,7 @@
     "electron",
     "frontle"
   ],
-  "author": "Yun HyeongJun <y37653@gmail.com>",
+  "author": "Yun Hyeongjun <y37653@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

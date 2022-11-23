@@ -31,7 +31,7 @@ await removeDir(dirEntry);
 **Frontle**
 
 ```shell
-frontle install @frontle/cordova-fileutil --notBuild
+frontle install @frontle/cordova-fileutil --noBuild
 ```
 
 **Download file**
