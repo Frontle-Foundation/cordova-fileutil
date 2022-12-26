@@ -1,12 +1,14 @@
 {
   "name": "@frontle/cordova-fileutil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "module": "./",
   "description": "'cordova-plugin-file' easily",
   "keywords": [
     "cordova-plugin-file",
     "cordova file",
+    "vanilla",
+    "javascript",
     "browser",
     "android",
     "ios",
